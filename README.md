@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichikoMalandro /Ashley
+- 👋 Hi, I’m Ashley
 - 👀 I’m interested in ... cyber security! Specifically pen testing and social engineering.
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... anything offensive security related
